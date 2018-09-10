@@ -22,8 +22,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "https://thenameistommy.blogtest.github.io" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://github.com/theNameIsTommy/blogtest.github.io/" # the base hostname & protocol for your site
+baseurl: "https://github.com/theNameIsTommy/blogtest.github.io/"
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
 
